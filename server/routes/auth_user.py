@@ -70,7 +70,7 @@ async def signup(user:CreateUser):
         }
     }
 
-    
+
 
 
 @router.post('/login')
